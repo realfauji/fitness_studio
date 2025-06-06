@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Yoga",
+        "instructor": "Raj",
+        "datetime": "2025-06-07 11:31:35.978778",
+        "slots": 5
+    },
+    {
+        "id": 2,
+        "name": "Zumba",
+        "instructor": "Akash",
+        "datetime": "2025-06-08 11:31:35.978799",
+        "slots": 9
+    },
+    {
+        "id": 3,
+        "name": "Strength Training",
+        "instructor": "Vishal",
+        "datetime": "2025-06-09 11:31:35.978801",
+        "slots": 9
+    },
+    {
+        "id": 4,
+        "name": "HIIT",
+        "instructor": "Bharat",
+        "datetime": "2025-06-08 11:31:35.978802",
+        "slots": 15
+    },
+    {
+        "id": 5,
+        "name": "Cardio",
+        "instructor": "Satendra",
+        "datetime": "2025-06-07 11:31:35.978804",
+        "slots": 20
+    }
+]

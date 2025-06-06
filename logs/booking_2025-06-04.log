@@ -1,0 +1,2 @@
+[2025-06-04 18:31:38,093] INFO [booking_logger:29] Booking Successful - alex@gmail.com booked class 1
+[2025-06-04 18:32:06,192] WARNING [booking_logger:24] Booking failed - Duplicate Booking attempt by alex@gmail.com for class 1

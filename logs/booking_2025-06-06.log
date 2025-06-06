@@ -1,0 +1,6 @@
+[2025-06-06 11:29:35,856] INFO [booking_logger:29] Booking Successful - akash@example.com booked class 1
+[2025-06-06 11:29:54,695] WARNING [booking_logger:24] Booking failed - Duplicate Booking attempt by akash@example.com for class 1
+[2025-06-06 11:36:12,890] INFO [booking_logger:29] Booking Successful - bharat@example.com booked class 2
+[2025-06-06 11:36:24,842] WARNING [booking_logger:24] Booking failed - Duplicate Booking attempt by bharat@example.com for class 2
+[2025-06-06 11:54:03,593] INFO [booking_logger:29] Booking Successful - virat@example.com booked class 3
+[2025-06-06 11:54:14,722] WARNING [booking_logger:24] Booking failed - Duplicate Booking attempt by virat@example.com for class 3
