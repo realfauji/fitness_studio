@@ -20,6 +20,6 @@ A simple FastAPI-based backend for booking fitness classes like Yoga, Zumba, and
 ### 1. Clone the Repository and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/realfauji/fitness_studio.git
 cd fitness_booking_api
 pip install -r requirements.txt
